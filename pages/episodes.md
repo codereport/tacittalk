@@ -13,8 +13,9 @@ List of all episodes.
 * Combinatory Programming with Zach Smith
 
 **Published**
+<!-- |   2   | [BQN with Marshall Lochbaum](https://tacittalk.com/2024/05/31/Episode-2.html) |  2024-05-31  | -->
 
-|   #   |                                     Title                                     | Release Date |
-| :---: | :---------------------------------------------------------------------------: | :----------: |
-|   2   | [BQN with Marshall Lochbaum](https://tacittalk.com/2024/05/31/Episode-2.html) |  2024-05-31  |
-|   1   |   [Uiua with Kai Schmidt](https://tacittalk.com/2024/05/10/Episode-1.html)    |  2024-05-10  |
+|   #   |                                  Title                                   | Release Date |
+| :---: | :----------------------------------------------------------------------: | :----------: |
+|   2   |                        BQN with Marshall Lochbaum                        |  2024-05-31  |
+|   1   | [Uiua with Kai Schmidt](https://tacittalk.com/2024/05/10/Episode-1.html) |  2024-05-10  |
