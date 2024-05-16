@@ -17,5 +17,5 @@ List of all episodes.
 
 |   #   |                                  Title                                   | Release Date |
 | :---: | :----------------------------------------------------------------------: | :----------: |
-|   2   |                        BQN with Marshall Lochbaum                        |  2024-05-31  |
+|   2   |                        BQN with Marshall Lochbaum                        |  2024-05-27  |
 |   1   | [Uiua with Kai Schmidt](https://tacittalk.com/2024/05/10/Episode-1.html) |  2024-05-10  |
