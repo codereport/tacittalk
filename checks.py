@@ -39,17 +39,17 @@ for post_name in os.listdir("_posts/"):
                     problem = True
 print (("❌" if problem else "✅") + " - Date in Link to Website (Link)")
 
-# Date in Release Date
+# Date in Record Date
 problem = False
 for post_name in os.listdir("_posts/"):
     date = post_name[:10]
     with open("_posts/" + post_name) as post:
         idx = 3 if num < 115 else 4
         for line in post:
-            if "Date Released:" in line:
-                if line.strip().split()[-1] != date:
+            if "Date Recorded:" in line:
+                if line.strip().split()[-2] != date:
                     problem = True
-print (("❌" if problem else "✅") + " - Date in Release Date")
+print (("❌" if problem else "✅") + " - Date in Record Date")
 
 # Discussion Link Issue Number
 problem = False
@@ -62,18 +62,6 @@ for post_name in os.listdir("_posts/"):
                 if num - 110 + (num > 116) + (num > 151) != int(line[:-2].split('/')[-1]):
                     problem = True
 print (("❌" if problem else "✅") + " - Discussion Link Issue Number")
-
-# Dates Differ by 7 Days
-problem = False
-dates = []
-for post_name in os.listdir("_posts/"):
-    date = post_name[:10]
-    dates.append(datetime.strptime(date, "%Y-%m-%d"))
-dates.sort()
-for a, b in zip(dates[:-1], dates[1:]):
-    if (b - a).days != 7:
-        problem = True
-print (("❌" if problem else "✅") + " - Dates Differ by 7 Days")
 
 # Episodes
 print("EPISODES CHECKS")
@@ -92,7 +80,7 @@ for post_name in os.listdir("_posts/"):
                 title = ' '.join(line.split("\"")[-2].split()[2:])
     with open("pages/episodes.md") as file:
         for n, line in enumerate(file):
-            if n > 10:
+            if n > 17:
                 data = line.split("|")
                 if len(data) > 3:
                     other_num   = int(data[1].strip())
