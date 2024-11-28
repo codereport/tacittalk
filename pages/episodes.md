@@ -16,6 +16,7 @@ List of all episodes.
 
 |   #   |                                             Title                                             | Release Date |
 | :---: | :-------------------------------------------------------------------------------------------: | :----------: |
+|   8   |         [Tacit Definition (1991) ✨](https://tacittalk.com/2024/11/28/Episode-8.html)          |  2024-11-28  |
 |   7   |      [BQN Tooling with Mitchell Kember](https://tacittalk.com/2024/11/23/Episode-7.html)      |  2024-11-23  |
 |   6   | [Implementer Panel #1 (APL, BQN, Kap, Uiua)](https://tacittalk.com/2024/10/22/Episode-6.html) |  2024-10-22  |
 |   5   |  [Combinatory Programming with Zach Smith](https://tacittalk.com/2024/09/27/Episode-5.html)   |  2024-09-27  |
