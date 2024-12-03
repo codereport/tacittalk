@@ -16,6 +16,9 @@ List of all episodes.
 
 |   #   |                                             Title                                             | Release Date |
 | :---: | :-------------------------------------------------------------------------------------------: | :----------: |
+|  11   |                                 APL, BQN and AoC with dzaima                                  |  2024-12-20  |
+|  10   |                                              TBD                                              |  2024-12-10  |
+|   9   |                                    Phrasal Forms (1989) ✨                                     |  2024-12-05  |
 |   8   |         [Tacit Definition (1991) ✨](https://tacittalk.com/2024/11/28/Episode-8.html)          |  2024-11-28  |
 |   7   |      [BQN Tooling with Mitchell Kember](https://tacittalk.com/2024/11/23/Episode-7.html)      |  2024-11-23  |
 |   6   | [Implementer Panel #1 (APL, BQN, Kap, Uiua)](https://tacittalk.com/2024/10/22/Episode-6.html) |  2024-10-22  |
