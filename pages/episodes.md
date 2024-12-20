@@ -16,7 +16,7 @@ List of all episodes.
 
 |   #   |                                             Title                                             | Release Date |
 | :---: | :-------------------------------------------------------------------------------------------: | :----------: |
-|  11   |                                 APL, BQN and AoC with dzaima                                  |  2024-12-20  |
+|  11   |       [APL, BQN and AoC with dzaima](https://tacittalk.com/2024/12/20/Episode-11.html)        |  2024-12-20  |
 |  10   |      [A Personal View of APL (1991) ✨](https://tacittalk.com/2024/12/10/Episode-10.html)      |  2024-12-10  |
 |   9   |           [Phrasal Forms (1989) ✨](https://tacittalk.com/2024/12/05/Episode-9.html)           |  2024-12-05  |
 |   8   |         [Tacit Definition (1991) ✨](https://tacittalk.com/2024/11/28/Episode-8.html)          |  2024-11-28  |
