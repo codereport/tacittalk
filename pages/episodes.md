@@ -16,7 +16,7 @@ List of all episodes.
 
 |   #   |                                             Title                                             | Release Date |
 | :---: | :-------------------------------------------------------------------------------------------: | :----------: |
-|  13   |                           Collection-Oriented Programming (1990) ✨                            |  2025-01-10  |
+|  13   |                           Collection-Oriented Programming (1990) ✨                            |  2025-01-09  |
 |  12   |     [APL: Good for the Brain (1979) ✨](https://tacittalk.com/2025/01/06/Episode-12.html)      |  2025-01-06  |
 |  11   |       [APL, BQN and AoC with dzaima](https://tacittalk.com/2024/12/20/Episode-11.html)        |  2024-12-20  |
 |  10   |      [A Personal View of APL (1991) ✨](https://tacittalk.com/2024/12/10/Episode-10.html)      |  2024-12-10  |
