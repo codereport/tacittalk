@@ -15,7 +15,7 @@ List of all episodes.
 
 |   #   |                                             Title                                             | Release Date |
 | :---: | :-------------------------------------------------------------------------------------------: | :----------: |
-|  14   |                                 TinyAPL with Madeline Vergani                                 |  2025-01-25  |
+|  14   |       [TinyAPL with Madeline Vergani](https://tacittalk.com/2025/01/25/Episode-14.html)       |  2025-01-25  |
 |  13   |  [Collection-Oriented Languages (1991) ✨](https://tacittalk.com/2025/01/09/Episode-13.html)   |  2025-01-09  |
 |  12   |     [APL: Good for the Brain (1979) ✨](https://tacittalk.com/2025/01/06/Episode-12.html)      |  2025-01-06  |
 |  11   |       [APL, BQN and AoC with dzaima](https://tacittalk.com/2024/12/20/Episode-11.html)        |  2024-12-20  |
