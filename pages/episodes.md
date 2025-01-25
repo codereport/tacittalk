@@ -10,6 +10,7 @@ List of all episodes.
 **Future**
 
 - Implementer Panel #2 (BQN vs Uiua vs Kap vs APL)
+- Dyalog APL 20.0 with with Adám Brudzewsky
 
 **Published**
 
