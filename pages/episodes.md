@@ -19,7 +19,7 @@ List of all episodes.
 |  18   |                                  Uiua 0.15 with Kai Schmidt                                   |  2025-02-21  |
 |  17   |                                             TBD ✨                                             |  2025-02-10  |
 |  16   |                                             TBD ✨                                             |  2025-02-05  |
-|  15   |                         Array Theory and the Design of Nial (2013) ✨                          |  2025-01-30  |
+|  15   |                         Array Theory and the Design of Nial (2013) ✨                          |  2025-01-29  |
 |  14   |       [TinyAPL with Madeline Vergani](https://tacittalk.com/2025/01/25/Episode-14.html)       |  2025-01-25  |
 |  13   |  [Collection-Oriented Languages (1991) ✨](https://tacittalk.com/2025/01/09/Episode-13.html)   |  2025-01-09  |
 |  12   |     [APL: Good for the Brain (1979) ✨](https://tacittalk.com/2025/01/06/Episode-12.html)      |  2025-01-06  |
