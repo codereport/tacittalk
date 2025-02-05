@@ -7,10 +7,13 @@ feature-img: "assets/img/pexels/single_color_bg.png"
 
 List of all episodes.
 
-**Future**
+**Future Interviews**
 
 - Implementer Panel #2 (BQN vs Uiua vs Kap vs APL)
 - Dyalog APL 20.0 with with Adám Brudzewsky
+
+**Future Non-Interviews:**
+
 - A Personal View of APL (1991) - again
 - A Mathematics of Arrays (1988) 🟦 or ✨
 - HOPL I: The Evolution of APL (1978) 🟦
@@ -20,6 +23,8 @@ List of all episodes.
 
 |   #   |                                              Title                                               | Release Date |
 | :---: | :----------------------------------------------------------------------------------------------: | :----------: |
+|   ?   |                            Tersity with Aason Hsu and Jonathon Smith                             |  2025-03-??  |
+|   ?   |                            A GitHub Discussion from ADSP Episode 197                             |  2025-03-??  |
 |  17   |                                    Uiua 0.15 with Kai Schmidt                                    |  2025-02-21  |
 |  16   |                           Array Theory and the Design of Nial (2013) 🟦                           |  2025-02-05  |
 |  15   | [Array Theory and the Design of Nial (2013) ✨](https://tacittalk.com/2025/01/29/Episode-15.html) |  2025-01-29  |
