@@ -11,6 +11,8 @@ List of all episodes.
 
 - Implementer Panel #2 (BQN vs Uiua vs Kap vs APL)
 - Dyalog APL 20.0 with with Adám Brudzewsky
+- A Personal View of APL (1991) - again
+- A Mathematics of Arrays (1988) 🟦 or ✨
 
 **Published**
 
