@@ -13,6 +13,8 @@ List of all episodes.
 - Dyalog APL 20.0 with with Adám Brudzewsky
 - A Personal View of APL (1991) - again
 - A Mathematics of Arrays (1988) 🟦 or ✨
+- HOPL I: The Evolution of APL (1978) 🟦
+- HOPL IV: APL Since 1978 (2020) 🟦
 
 **Published**
 
