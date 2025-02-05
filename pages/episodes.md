@@ -20,10 +20,11 @@ List of all episodes.
 
 |   #   |                                              Title                                               | Release Date |
 | :---: | :----------------------------------------------------------------------------------------------: | :----------: |
+|   ?   |                                APL Since 1978 (2020 - HOPL IV) 🟦                                 |    2025-?    |
 |   ?   |                            Tersity with Aason Hsu and Jonathon Smith                             |  2025-03-??  |
 |   ?   |                            A GitHub Discussion from ADSP Episode 197                             |  2025-03-??  |
 |  19   |                                    Uiua 0.15 with Kai Schmidt                                    |  2025-02-21  |
-|  18   |                                APL Since 1978 (2020 - HOPL IV) 🟦                                 |  2025-02-11  |
+|  18   |                                    The Design of APL (1973) 🟦                                    |  2025-02-11  |
 |  17   |                              The Evolution of APL (1978 - HOPL I) 🟦                              |  2025-02-08  |
 |  16   | [Array Theory and the Design of Nial (2013) 🟦](https://tacittalk.com/2025/02/05/Episode-16.html) |  2025-02-05  |
 |  15   | [Array Theory and the Design of Nial (2013) ✨](https://tacittalk.com/2025/01/29/Episode-15.html) |  2025-01-29  |
