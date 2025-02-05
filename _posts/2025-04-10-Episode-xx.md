@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Episode 17: The Evolution of APL (1978 - HOPL I) 🟦"
+title: "Episode xx: APL Since 1978 (2020 - HOPL IV) 🟦"
 tags: [Text-to-Speech, Speechify, APL, HOPL]
 excerpt_separator: <!--more-->
 ---
 
 
-<br>In this episode, the paper The Evolution of APL (1978) presented at the first HOPL conference is read by the Speechify text-to-speech app.
+<br>In this episode, the paper APL Since 1978 (2020) presented at the HOPL IV conference is read by the Speechify text-to-speech app.
 
 <!--more-->
 
@@ -17,8 +17,7 @@ excerpt_separator: <!--more-->
 
 ### Show Notes
 
-**Date Released:** 2025-02-08 <br>
+**Date Released:** 2025-04-xx <br>
 
-* [The Evolution of APL (1978) - on JSoftware](https://www.jsoftware.com/papers/APLEvol1.htm)
-* [The Evolution of APL (1978) - on ACM Digital Library](https://dl.acm.org/doi/10.1145/960118.808372)
+* [APL Since 1978 (2020)](https://dl.acm.org/doi/10.1145/3386319)
 * [Speechify (save $60 by using this link)](https://share.speechify.com/mzBQRif)
