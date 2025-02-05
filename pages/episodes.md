@@ -15,9 +15,6 @@ List of all episodes.
 **Future Non-Interviews:**
 
 - A Personal View of APL (1991) - again
-- A Mathematics of Arrays (1988) 🟦 or ✨
-- HOPL I: The Evolution of APL (1978) 🟦
-- HOPL IV: APL Since 1978 (2020) 🟦
 
 **Published**
 
@@ -25,8 +22,10 @@ List of all episodes.
 | :---: | :----------------------------------------------------------------------------------------------: | :----------: |
 |   ?   |                            Tersity with Aason Hsu and Jonathon Smith                             |  2025-03-??  |
 |   ?   |                            A GitHub Discussion from ADSP Episode 197                             |  2025-03-??  |
-|  17   |                                    Uiua 0.15 with Kai Schmidt                                    |  2025-02-21  |
-|  16   |                           Array Theory and the Design of Nial (2013) 🟦                           |  2025-02-05  |
+|  19   |                                    Uiua 0.15 with Kai Schmidt                                    |  2025-02-21  |
+|  18   |                                APL Since 1978 (2020 - HOPL IV) 🟦                                 |  2025-02-11  |
+|  17   |                              The Evolution of APL (1978 - HOPL I) 🟦                              |  2025-02-08  |
+|  16   | [Array Theory and the Design of Nial (2013) 🟦](https://tacittalk.com/2025/02/05/Episode-16.html) |  2025-02-05  |
 |  15   | [Array Theory and the Design of Nial (2013) ✨](https://tacittalk.com/2025/01/29/Episode-15.html) |  2025-01-29  |
 |  14   |        [TinyAPL with Madeline Vergani](https://tacittalk.com/2025/01/25/Episode-14.html)         |  2025-01-25  |
 |  13   |    [Collection-Oriented Languages (1991) ✨](https://tacittalk.com/2025/01/09/Episode-13.html)    |  2025-01-09  |
