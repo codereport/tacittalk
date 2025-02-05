@@ -22,7 +22,7 @@ List of all episodes.
 | :---: | :----------------------------------------------------------------------------------------------: | :----------: |
 |   ?   |                                APL Since 1978 (2020 - HOPL IV) 🟦                                 |    2025-?    |
 |   ?   |                            Tersity with Aason Hsu and Jonathon Smith                             |  2025-03-??  |
-|   ?   |                            A GitHub Discussion from ADSP Episode 197                             |  2025-03-??  |
+|   ?   |                           A GitHub Discussion from ADSP Episode 197 🟦                            |  2025-03-??  |
 |  19   |                                    Uiua 0.15 with Kai Schmidt                                    |  2025-02-21  |
 |  18   |                                    The Design of APL (1973) 🟦                                    |  2025-02-11  |
 |  17   |                              The Evolution of APL (1978 - HOPL I) 🟦                              |  2025-02-08  |
