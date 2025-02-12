@@ -16,6 +16,11 @@ List of all episodes.
 
 - A Personal View of APL (1991) - again
 
+**Legend:**
+
+- 🟦: Text to Speech via Speechify 
+- ✨: AI Generated via NotebookLM
+
 **Published**
 
 |   #   |                                              Title                                               | Release Date |
