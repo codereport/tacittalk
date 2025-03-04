@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/single_color_bg.png"
 
 List of APL book that are available online.
 
-**Links to lists of APL books / papers:**
+**Lists of APL books / papers:**
 
 * [Software Preservation List of APL Books](https://www.softwarepreservation.org/projects/apl/Books)
 * [J Software Creative Commons](https://code.jsoftware.com/wiki/Community/Creative_Commons)
