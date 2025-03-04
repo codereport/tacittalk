@@ -26,10 +26,12 @@ List of all episodes.
 
 |   #   |                                               Title                                               | Release Date |
 | :---: | :-----------------------------------------------------------------------------------------------: | :----------: |
-|  22   |                             Tersity with Aason Hsu and Jonathon Smith                             |  2025-03-24  |
-|  21   |                            A GitHub Discussion from ADSP Episode 197 🟦                            |  2025-03-12  |
-|  23   |                                                TBD                                                |     TBD      |
-|  22   |                                                TBD                                                |     TBD      |
+|  27   |                             Tersity with Aason Hsu and Jonathon Smith                             |  2025-03-24  |
+|  26   |                            A GitHub Discussion from ADSP Episode 197 🟦                            |  2025-03-19  |
+|  25   |                      In Praise of APL: A Language for Lyrical Programming 🟦                       |  2025-03-15  |
+|  24   |                             APL is more French than English (1978) 🟦                              |  2025-03-11  |
+|  23   |                         The Inductive Method of Introducing APL (1980) 🟦                          |  2025-03-10  |
+|  22   |                           A Source Book in APL - Introduction (1981) 🟦                            |  2025-03-08  |
 |  21   |                      Kenneth E. Iverson - An Autobiographical Essay (2008) 🟦                      |  2025-03-05  |
 |  20   | [Ken Iverson Quotations and Anecdotes (2005) 🟦](https://tacittalk.com/2025/03/02/Episode-20.html) |  2025-03-02  |
 |  19   |          [Uiua 0.15 with Kai Schmidt](https://tacittalk.com/2025/02/21/Episode-19.html)           |  2025-02-21  |
