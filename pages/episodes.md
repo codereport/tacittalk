@@ -30,7 +30,7 @@ List of all episodes.
 |  26   |                                 A GitHub Discussion from ADSP Episode 197 🟦                                 |  2025-03-19  |
 |  25   |                           In Praise of APL: A Language for Lyrical Programming 🟦                            |  2025-03-15  |
 |  24   |                                  APL is more French than English (1978) 🟦                                   |  2025-03-11  |
-|  23   |                              The Inductive Method of Introducing APL (1980) 🟦                               |  2025-03-10  |
+|  23   |  [The Inductive Method of Introducing APL (1980) 🟦](https://tacittalk.com/2025/03/10/Episode-23.html)       |  2025-03-10  |
 |  22   |      [A Source Book in APL - Introduction (1981) 🟦](https://tacittalk.com/2025/03/08/Episode-22.html)       |  2025-03-08  |
 |  21   | [Kenneth E. Iverson - An Autobiographical Essay (2008) 🟦](https://tacittalk.com/2025/03/05/Episode-21.html) |  2025-03-05  |
 |  20   |      [Ken Iverson Quotations and Anecdotes (2005) 🟦](https://tacittalk.com/2025/03/02/Episode-20.html)      |  2025-03-02  |
