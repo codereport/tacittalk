@@ -28,7 +28,7 @@ List of all episodes.
 | :---: | :---------------------------------------------------------------------------------------------------------: | :----------: |
 |  27   |                                  Tersity with Aason Hsu and Jonathon Smith                                  |  2025-03-24  |
 |  26   |                                 A GitHub Discussion from ADSP Episode 197 🟦                                 |  2025-03-19  |
-|  25   |                           In Praise of APL: A Language for Lyrical Programming 🟦                            |  2025-03-15  |
+|  25   | [In Praise of APL: A Language for Lyrical Programming (1977) 🟦](https://tacittalk.com/2025/03/15/Episode-25.html) |  2025-03-15  |
 |  24   |         [APL is more French than English (1978) 🟦](https://tacittalk.com/2025/03/11/Episode-24.html)        |  2025-03-11  |
 |  23   |  [The Inductive Method of Introducing APL (1980) 🟦](https://tacittalk.com/2025/03/10/Episode-23.html)       |  2025-03-10  |
 |  22   |      [A Source Book in APL - Introduction (1981) 🟦](https://tacittalk.com/2025/03/08/Episode-22.html)       |  2025-03-08  |
