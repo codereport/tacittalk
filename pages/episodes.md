@@ -29,7 +29,7 @@ List of all episodes.
 |  27   |             [Tersity with Aaron Hsu and Jon Smith](https://tacittalk.com/2025/03/24/Episode-27.html)              |  2025-03-24  |
 |  26   |           [A GitHub Discussion of ADSP Episode 197 🟦](https://tacittalk.com/2025/03/19/Episode-26.html)           |  2025-03-19  |
 |  25   | [In Praise of APL: A Language for Lyrical Programming (1977) 🟦](https://tacittalk.com/2025/03/15/Episode-25.html) |  2025-03-15  |
-|  24   |           [APL is more French than English (1978) 🟦](https://tacittalk.com/2025/03/11/Episode-24.html)            |  2025-03-11  |
+|  24   |           [APL is More French than English (1978) 🟦](https://tacittalk.com/2025/03/11/Episode-24.html)            |  2025-03-11  |
 |  23   |       [The Inductive Method of Introducing APL (1980) 🟦](https://tacittalk.com/2025/03/10/Episode-23.html)        |  2025-03-10  |
 |  22   |         [A Source Book in APL - Introduction (1981) 🟦](https://tacittalk.com/2025/03/08/Episode-22.html)          |  2025-03-08  |
 |  21   |    [Kenneth E. Iverson - An Autobiographical Essay (2008) 🟦](https://tacittalk.com/2025/03/05/Episode-21.html)    |  2025-03-05  |
