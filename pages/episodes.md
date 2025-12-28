@@ -10,7 +10,6 @@ List of all episodes.
 **Future Interviews**
 
 - Implementer Panel #2 (BQN vs Uiua vs Kap vs APL)
-- Dyalog APL 20.0 with with Adám Brudzewsky
 
 **Future Non-Interviews:**
 
@@ -26,6 +25,9 @@ List of all episodes.
 
 |   #   |                                                       Title                                                       | Release Date |
 | :---: | :---------------------------------------------------------------------------------------------------------------: | :----------: |
+|  30   |                                     Dyalog APL 20.0 with with Adám Brudzewsky                                     |     TBD      |
+|  29   |                                                 APL with Max Sun                                                  |     TBD      |
+|  28   |                  [Co-dfns & AI with Aaron Hsu](https://tacittalk.com/2025/10/22/Episode-28.html)                  |  2025-10-22  |
 |  27   |             [Tersity with Aaron Hsu and Jon Smith](https://tacittalk.com/2025/03/24/Episode-27.html)              |  2025-03-24  |
 |  26   |           [A GitHub Discussion of ADSP Episode 197 🟦](https://tacittalk.com/2025/03/19/Episode-26.html)           |  2025-03-19  |
 |  25   | [In Praise of APL: A Language for Lyrical Programming (1977) 🟦](https://tacittalk.com/2025/03/15/Episode-25.html) |  2025-03-15  |
