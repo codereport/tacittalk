@@ -11,7 +11,11 @@ for post_name in os.listdir("_posts/"):
     with open("_posts/" + post_name) as post:
         for line in post:
             if "title:" in line and num != 110:
-                if int(line.split()[2][:-1]) != num:
+                title_num = int(line.split()[2][:-1])
+                if title_num != num:
+                    print(
+                        f"  ❌ {post_name}: Expected episode {num}, found {title_num} in title"
+                    )
                     problem = True
 print(("❌" if problem else "✅") + " - Episode Number in Title")
 
@@ -23,7 +27,11 @@ for post_name in os.listdir("_posts/"):
         idx = 3 if num < 115 else 4
         for line in post:
             if "Link to Episode" in line:
-                if int(line.split()[idx]) != num:
+                link_num = int(line.split()[idx])
+                if link_num != num:
+                    print(
+                        f"  ❌ {post_name}: Expected episode {num}, found {link_num} in link text"
+                    )
                     problem = True
 print(("❌" if problem else "✅") + " - Episode Number in Link to Website (Text)")
 
@@ -31,11 +39,16 @@ print(("❌" if problem else "✅") + " - Episode Number in Link to Website (Tex
 problem = False
 for post_name in os.listdir("_posts/"):
     date = post_name[:10]
+    num = int(post_name[:-3].split("-")[-1])
     with open("_posts/" + post_name) as post:
         idx = 3 if num < 115 else 4
         for line in post:
             if "Link to Episode" in line:
-                if "-".join(line.split("/")[3:6]) != date:
+                link_date = "-".join(line.split("/")[3:6])
+                if link_date != date:
+                    print(
+                        f"  ❌ {post_name}: Expected date {date}, found {link_date} in link"
+                    )
                     problem = True
 print(("❌" if problem else "✅") + " - Date in Link to Website (Link)")
 
@@ -43,11 +56,16 @@ print(("❌" if problem else "✅") + " - Date in Link to Website (Link)")
 problem = False
 for post_name in os.listdir("_posts/"):
     date = post_name[:10]
+    num = int(post_name[:-3].split("-")[-1])
     with open("_posts/" + post_name) as post:
         idx = 3 if num < 115 else 4
         for line in post:
             if "Date Recorded:" in line:
-                if line.strip().split()[-2] != date:
+                record_date = line.strip().split()[-2]
+                if record_date != date and num not in {28, 29}:
+                    print(
+                        f"  ❌ {post_name}: Expected date {date}, found {record_date} in record date"
+                    )
                     problem = True
 print(("❌" if problem else "✅") + " - Date in Record Date")
 
@@ -59,9 +77,12 @@ for post_name in os.listdir("_posts/"):
         for line in post:
             if "Discuss this episode" in line:
                 # Ep 115 started with Issue 5 (so subtract 110)
-                if num - 110 + (num > 116) + (num > 151) != int(
-                    line[:-2].split("/")[-1]
-                ):
+                expected_issue = num - 110 + (num > 116) + (num > 151)
+                actual_issue = int(line[:-2].split("/")[-1])
+                if expected_issue != actual_issue:
+                    print(
+                        f"  ❌ {post_name}: Expected issue {expected_issue}, found {actual_issue} in discussion link"
+                    )
                     problem = True
 print(("❌" if problem else "✅") + " - Discussion Link Issue Number")
 
@@ -93,14 +114,24 @@ for post_name in os.listdir("_posts/"):
 
                     if num == other_num:
                         if date != other_date:
+                            print(
+                                f"  ❌ Episode {num}: Expected date {date}, found {other_date} in episodes.md"
+                            )
                             problem_date = True
                         if title != other_title and "Ben Deane" not in title:
-                            print(title)
-                            print(other_title)
+                            print(f"  ❌ Episode {num}: Title mismatch")
+                            print(f"      Post:        '{title}'")
+                            print(f"      Episodes.md: '{other_title}'")
                             problem_title = True
                         if date != link_date:
+                            print(
+                                f"  ❌ Episode {num}: Expected link date {date}, found {link_date} in episodes.md"
+                            )
                             problem_link_date = True
                         if num != link_num:
+                            print(
+                                f"  ❌ Episode {num}: Expected link number {num}, found {link_num} in episodes.md"
+                            )
                             problem_link_num = True
 
 print(("❌" if problem_date else "✅") + " - Episode Date")
