@@ -25,7 +25,7 @@ List of all episodes.
 
 |   #   |                                                       Title                                                       | Release Date |
 | :---: | :---------------------------------------------------------------------------------------------------------------: | :----------: |
-|  30   |             [Dyalog APL 20.0 with Adám Brudzewsky](https://tacittalk.com/2026/01/01/Episode-30.html)              |  2026-01-01  |
+|  30   |               [Dyalog 20.0 with Adám Brudzewsky](https://tacittalk.com/2026/01/01/Episode-30.html)                |  2026-01-01  |
 |  29   |                   [APL & Loons with Max Sun](https://tacittalk.com/2025/12/29/Episode-29.html)                    |  2025-12-29  |
 |  28   |                  [Co-dfns & AI with Aaron Hsu](https://tacittalk.com/2025/10/22/Episode-28.html)                  |  2025-10-22  |
 |  27   |             [Tersity with Aaron Hsu and Jon Smith](https://tacittalk.com/2025/03/24/Episode-27.html)              |  2025-03-24  |
