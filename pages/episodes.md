@@ -15,6 +15,7 @@ List of all episodes.
 
 - A Personal View of APL (1991) - again
 - APL Since 1978 (2020 - HOPL IV) 🟦
+- Algebra as a Language (1972) 🟦
 
 **Legend:**
 
