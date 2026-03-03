@@ -25,6 +25,7 @@ List of all episodes.
 
 |   #   |                                                       Title                                                       | Release Date |
 | :---: | :---------------------------------------------------------------------------------------------------------------: | :----------: |
+|  31   |            [Notation as a Tool of Thought (1979) 🟦](https://tacittalk.com/2026/03/02/Episode-31.html)             |  2026-03-02  |
 |  30   |               [Dyalog 20.0 with Adám Brudzewsky](https://tacittalk.com/2026/01/01/Episode-30.html)                |  2026-01-01  |
 |  29   |                   [APL & Loons with Max Sun](https://tacittalk.com/2025/12/29/Episode-29.html)                    |  2025-12-29  |
 |  28   |                  [Co-dfns & AI with Aaron Hsu](https://tacittalk.com/2025/10/22/Episode-28.html)                  |  2025-10-22  |
