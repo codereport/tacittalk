@@ -26,6 +26,7 @@ List of all episodes.
 
 |   #   |                                                       Title                                                       | Release Date |
 | :---: | :---------------------------------------------------------------------------------------------------------------: | :----------: |
+|  32   |                [Richard Bird's Algebraic Laws 🟦](https://tacittalk.com/2026/03/14/Episode-32.html)                |  2026-03-14  |
 |  31   |            [Notation as a Tool of Thought (1979) 🟦](https://tacittalk.com/2026/03/02/Episode-31.html)             |  2026-03-02  |
 |  30   |               [Dyalog 20.0 with Adám Brudzewsky](https://tacittalk.com/2026/01/01/Episode-30.html)                |  2026-01-01  |
 |  29   |                   [APL & Loons with Max Sun](https://tacittalk.com/2025/12/29/Episode-29.html)                    |  2025-12-29  |
