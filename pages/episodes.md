@@ -26,6 +26,7 @@ List of all episodes.
 
 |   #   |                                                          Title                                                          | Release Date |
 | :---: | :---------------------------------------------------------------------------------------------------------------------: | :----------: |
+|  34   |                   [Algebra as a Language (1972) 🟦](https://tacittalk.com/2026/03/28/Episode-34.html)                    |  2026-03-28  |
 |  33   | [From List Calculus to Array Calculi (Bird's Laws, AoP, MoA & SaC) 🟦](https://tacittalk.com/2026/03/18/Episode-33.html) |  2026-03-18  |
 |  32   |                   [Richard Bird's Algebraic Laws 🟦](https://tacittalk.com/2026/03/14/Episode-32.html)                   |  2026-03-14  |
 |  31   |               [Notation as a Tool of Thought (1979) 🟦](https://tacittalk.com/2026/03/02/Episode-31.html)                |  2026-03-02  |
