@@ -26,6 +26,7 @@ List of all episodes.
 
 |   #   |                                                          Title                                                          | Release Date |
 | :---: | :---------------------------------------------------------------------------------------------------------------------: | :----------: |
+|  36   |             [Representation-Driven Algorithm Dispatch 🟦](https://tacittalk.com/2026/04/15/Episode-36.html)              |  2026-04-15  |
 |  35   |         [TinyAPL 0.13, Inverses & AP8L with Madeline Vergani](https://tacittalk.com/2026/03/30/Episode-35.html)         |  2026-03-30  |
 |  34   |                   [Algebra as a Language (1972) 🟦](https://tacittalk.com/2026/03/28/Episode-34.html)                    |  2026-03-28  |
 |  33   | [From List Calculus to Array Calculi (Bird's Laws, AoP, MoA & SaC) 🟦](https://tacittalk.com/2026/03/18/Episode-33.html) |  2026-03-18  |
