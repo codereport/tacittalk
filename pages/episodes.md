@@ -26,6 +26,7 @@ List of all episodes.
 
 |   #   |                                                          Title                                                          | Release Date |
 | :---: | :---------------------------------------------------------------------------------------------------------------------: | :----------: |
+|  37   | [Pat Hanrahan - From Pixar to Tableau and RSL to VizQL ✨](https://tacittalk.com/2026/10/19/Episode-37.html) |  2026-10-19  |
 |  36   |             [Representation-Driven Algorithm Dispatch 🟦](https://tacittalk.com/2026/04/15/Episode-36.html)              |  2026-04-15  |
 |  35   |         [TinyAPL 0.13, Inverses & AP8L with Madeline Vergani](https://tacittalk.com/2026/03/30/Episode-35.html)         |  2026-03-30  |
 |  34   |                   [Algebra as a Language (1972) 🟦](https://tacittalk.com/2026/03/28/Episode-34.html)                    |  2026-03-28  |
